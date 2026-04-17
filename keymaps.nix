@@ -133,7 +133,7 @@
       action.__raw = ''
         function()
           require('fzf-lua').live_grep({
-            rg_opts = "--glob '!*.{test,spec}'"
+            rg_opts = "--glob '!*.{test,spec}' -n --column"
           })
         end
       '';
