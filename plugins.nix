@@ -358,10 +358,6 @@
       };
     };
 
-    git-conflict = {
-      enable = true;
-    };
-
     smartcolumn = {
       enable = true;
       settings = {
