@@ -347,7 +347,7 @@
           enabled = false;
         };
         scroll = {
-          enabled = true;
+          enabled = false;
         };
         statuscolumn = {
           enabled = false;

@@ -425,16 +425,16 @@
     }
 
     # Center view after moving
-    {
-      mode = "n";
-      key = "<C-d>";
-      action = "<C-d>zz";
-    }
-    {
-      mode = "n";
-      key = "<C-u>";
-      action = "<C-u>zz";
-    }
+   #{
+   #  mode = "n";
+   #  key = "<C-d>";
+   #  action = "<C-d>zz";
+   #}
+   #{
+   #  mode = "n";
+   #  key = "<C-u>";
+   #  action = "<C-u>zz";
+   #}
 
     # Center view on search
     {
